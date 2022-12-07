@@ -1,7 +1,7 @@
 1.I understand what is C# and what it is used for?:    Very Good
 2.I understand the C# fundamentals (variables, arrays, objects, strings):    Very Good
 3.I understand what is a conditional statement is such as If statement and why we use it:    Very Good
-4.I understand what is a method, and I can create and call a method:    Excelent
+4.I understand what is a method, and I can create and call a method:    Very Good
 5.I understand what is loop is such as for loop and why we use it:    Very Good
 6.I understand what is oop concept in c#?:    Very Good
 7.What is difference between Abstract Class and Interface in C#?:    Very Good

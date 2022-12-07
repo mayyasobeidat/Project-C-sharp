@@ -218,6 +218,7 @@ li {
 
     .survey {
         font-size: 20px;
+        margin-left: 25px;
     }
 
     .menu-toggle {
@@ -253,4 +254,4 @@ li {
     #LOG {
         display: block;
     }
-}
+
